@@ -1,0 +1,34 @@
+{
+  "name": "My Token List",
+  "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+  "keywords": [
+    "audited",
+    "verified",
+    "special tokens"
+  ],
+  "tags": {
+    "testing": {
+      "name": "Testing",
+      "description": "Test Tokens for use on any testnet (e.g.: Ropsten, Kovan, Rinkeby, Goerli, etc.)"
+    }
+  },
+  "timestamp": "2022-06-29T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 3,
+      "address": "0x000000000000000000000000000000000000test",
+      "symbol": "EXO",
+      "name": "Exohood Test Token",
+      "decimals": 18,
+      "logoURI": "https://github.com/exohood/exohood-token/blob/main/token_logo/logo32.png",
+      "tags": [
+        "testing"
+      ]
+   }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
